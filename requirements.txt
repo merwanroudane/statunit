@@ -1,2 +1,10 @@
 streamlit
+numpy
 pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+plotly
+arabic-reshaper
+python-bidi
